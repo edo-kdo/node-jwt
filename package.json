@@ -1,0 +1,27 @@
+{
+  "name": "node-jwt",
+  "version": "1.0.0",
+  "description": "Generate and Validate JWT tokens",
+  "main": "libs/index.js",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edo-kdo/node-jwt.git"
+  },
+  "keywords": [
+    "JWT",
+    "NodeJS"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edo-kdo/node-jwt/issues"
+  },
+  "homepage": "https://github.com/edo-kdo/node-jwt#readme"
+}
